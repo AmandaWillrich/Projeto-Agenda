@@ -1,5 +1,3 @@
 # Projeto-Agenda
  
-Primeiro projeto utilizando Django.
-
-Destinado à aprendizagem do framework e suas ferramentas.
+First project using Django as framework, with the goal of learning its tools.
